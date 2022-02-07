@@ -1,0 +1,102 @@
+{
+  "nextId": 13,
+  "nextIdPreke": 31,
+  "cekiai": [
+    {
+      "id": 7,
+      "data": "2021-08-01",
+      "parduotuveId": 2,
+      "mokejimuTipasId": 3,
+      "prekes": [
+        {
+          "id": 23,
+          "pavadinimas": "Nauja preke",
+          "kaina": 10,
+          "tipasId": 2
+        },
+        {
+          "id": 24,
+          "pavadinimas": "Nauja preke",
+          "kaina": 20,
+          "tipasId": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "data": "2021-08-03",
+      "parduotuveId": 2,
+      "mokejimuTipasId": 3,
+      "prekes": [
+        {
+          "id": 25,
+          "pavadinimas": "Nauja preke",
+          "kaina": 13,
+          "tipasId": 2
+        },
+        {
+          "id": 26,
+          "pavadinimas": "Nauja preke",
+          "kaina": 32,
+          "tipasId": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "data": "2021-08-11",
+      "parduotuveId": 2,
+      "mokejimuTipasId": 3,
+      "prekes": [
+        {
+          "id": 27,
+          "pavadinimas": "Nauja preke",
+          "kaina": 100,
+          "tipasId": 2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "data": "2021-08-15",
+      "parduotuveId": 2,
+      "mokejimuTipasId": 3,
+      "prekes": [
+        {
+          "id": 28,
+          "pavadinimas": "Nauja preke",
+          "kaina": 1000,
+          "tipasId": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "data": "2021-08-02",
+      "parduotuveId": 4,
+      "mokejimuTipasId": 12,
+      "prekes": [
+        {
+          "id": 29,
+          "pavadinimas": "Nauja preke",
+          "kaina": 123.45,
+          "tipasId": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "data": "2021-08-28",
+      "parduotuveId": 7,
+      "mokejimuTipasId": 4,
+      "prekes": [
+        {
+          "id": 30,
+          "pavadinimas": "burbulai",
+          "kaina": 6.99,
+          "tipasId": 6
+        }
+      ]
+    }
+  ]
+}

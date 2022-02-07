@@ -1,0 +1,25 @@
+<a href="/pagalVisas">Visos islaidos</a>
+
+<ul>
+    {{#each list}}
+    <li><a href="/pagalVisas">{{data}} </a> 
+    <table>
+        <thead>
+            <tr>
+                <th>Preke</th>
+                <th>Kaina</th>               
+            </tr>
+        </thead>
+        <tbody>
+            {{#each prekes}}
+            <tr>
+                <td>{{pavadinimas}}</td>
+                <td>{{kaina}}</td>                
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+    </li>
+    {{/each}}
+</ul>
+<a href="/">Back</a>

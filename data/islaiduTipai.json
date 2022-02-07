@@ -1,0 +1,21 @@
+{
+  "nextId": 8,
+  "tipai": [
+    {
+      "id": 2,
+      "pavadinimas": "Gerimai"
+    },
+    {
+      "id": 5,
+      "pavadinimas": "Maistas"
+    },
+    {
+      "id": 6,
+      "pavadinimas": "Kanceliarines pr."
+    },
+    {
+      "id": 7,
+      "pavadinimas": "elektros pr."
+    }
+  ]
+}

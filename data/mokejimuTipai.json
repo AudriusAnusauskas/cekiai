@@ -1,0 +1,37 @@
+{
+  "nextId": 13,
+  "tipai": [
+    {
+      "id": 3,
+      "pavadinimas": "Visa"
+    },
+    {
+      "id": 4,
+      "pavadinimas": "mastercard"
+    },
+    {
+      "id": 5,
+      "pavadinimas": "qqqqqq"
+    },
+    {
+      "id": 6,
+      "pavadinimas": "qqqqqqqqqqq"
+    },
+    {
+      "id": 7,
+      "pavadinimas": "kitsa sasa"
+    },
+    {
+      "id": 8,
+      "pavadinimas": "ww"
+    },
+    {
+      "id": 9,
+      "pavadinimas": "naujas"
+    },
+    {
+      "id": 12,
+      "pavadinimas": "revolut"
+    }
+  ]
+}
